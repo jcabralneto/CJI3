@@ -1,0 +1,7 @@
+[server]
+maxUploadSize = 200
+enableXsrfProtection = true
+
+[theme]
+base = "light"
+primaryColor = "#0F766E"   # verde elegante
